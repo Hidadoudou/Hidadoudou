@@ -1,5 +1,5 @@
 ### 个人简介
-- 一名资深前端开发工程师，因行业寒冬，转型全栈中。
+- 一名简单的前端开发工程师，全栈转型中，半年内痛苦转型中。
 - [点击这里](https://crazystudent13.cn/) 跳转到我的个人博客，这里记录着我这段时间的成长经历。
 
 ### 技能简介
@@ -23,8 +23,7 @@
 
 ---
 ### 提交记录
-![TOG](https://raw.githubusercontent.com/CrazyStudent13/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![TOG](https://raw.githubusercontent.com/CrazyStudent13/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
 
 ### views
 ![](https://komarev.com/ghpvc/?username=CrazyStudent13)
