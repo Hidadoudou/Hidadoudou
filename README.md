@@ -12,21 +12,4 @@
 7. 熟悉使用 uni-app，有丰富的微信小程序兼容经验和H5端的通用开发
 8. 能够部署npm私服，搭建项目模板和公司内部公用的项目组件库
 
-<div>
-<a href="https://github.com/CrazyStudent13">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CrazyStudent13&show_icons=true&theme=radical"/>
-</a>
-<a href="https://github.com/CrazyStudent13">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyStudent13&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c"/>
-</a>
-</div>  
-
----
-### 提交记录
-![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
-
-### views
-![](https://komarev.com/ghpvc/?username=CrazyStudent13)
-
-
 
